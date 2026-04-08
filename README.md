@@ -206,7 +206,7 @@
 ## 安装
 
 ```bash
-npx skills add [your-username]/jevons-skill
+npx skills add ZJLavender/jevons-skill
 ```
 
 然后在 Claude Code 里：
